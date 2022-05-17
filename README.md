@@ -21,14 +21,14 @@
   <br />
   <details  >
    <summary>💡  Github Status</summary>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=clkaley&theme=radical">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=umitavc&theme=radical">
 </details>
 <br />
 <br />
 
 <details  >
    <summary>💻 Most Used Languages </summary>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clkaley&layout=compact&theme=radical">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umitavc&layout=compact&theme=radical">
 </details>
 
 <br />
