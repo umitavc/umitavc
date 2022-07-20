@@ -1,6 +1,6 @@
 # <h1 align="center"> Hi there I'm Ümit 👋 </h1>
 
-## <p align="center"> Jr.Flutter Developer | Computer Engineering Student </p>
+## <p align="center"> Jr.Flutter Developer </p>
    <br />
                                                          
 
