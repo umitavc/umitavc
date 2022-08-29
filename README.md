@@ -1,10 +1,13 @@
-# <h1 align="center"> Hi there I'm Ümit 👋 </h1>
+# <h1 align="center"> Hi there I'm Umit 👋  </h1>
 
-## <p align="center"> Jr.Flutter Developer </p>
-   <br />
+<p align="center">  Computer Engineer </p>
                                                          
+- 🌱 I’m currently learning **Flutter**
 
-### Tech I Use
+- 📫 How to reach me **umitavc62@gmail.com**
+### Languages and Tools:
+
+
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="30" height="30">
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="30" height="30">
   <img align="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="30" height="30">
@@ -15,20 +18,18 @@
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" height="30">
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30" height="30">
 
-  
   <br />
-  <br />
-  <br />
+   <br />
+    <br />
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umitavc&show_icons=true&locale=en&layout=compact" alt="umitavc" />
+</p>
+ <br />
+
   <details  >
    <summary>💡  Github Status</summary>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=umitavc&theme=radical">
-</details>
-<br />
-<br />
-
-<details  >
-   <summary>💻 Most Used Languages </summary>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umitavc&layout=compact&theme=radical">
 </details>
 
 <br />
@@ -41,9 +42,8 @@
 <a href="mailto: umitavc62@gmail.com"">
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" align="right" />
 </a>
-                                                                                              
+                                                                                                
 <br />
-                                                                                                     
 <br />     
                                                                                                       
   [linkedin]:https://www.linkedin.com/in/umitavci/
