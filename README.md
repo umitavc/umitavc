@@ -39,7 +39,7 @@
 <a href="https://www.linkedin.com/in/umitavci/">
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="right" />
 </a>
-<a href="mailto: umitavc62@gmail.com"",target="_blank">
+<a href="mailto: umitavc62@gmail.com">
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" align="right" />
 </a>
                                                                                                 
