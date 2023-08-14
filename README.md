@@ -21,6 +21,7 @@
    <br>
 <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
 <code><a href="https://www.w3schools.com/cs/index.php" target="_blank"><img height="30" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></a></code>
+<code><a href="https://www.w3schools.com/cpp/" target="_blank"><img height="30" src="https://cdn.worldvectorlogo.com/logos/c.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
 <code><a href="https://dart.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="Dart"></a></code>
 <code><a href="https://kotlinlang.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></a></code>
@@ -31,7 +32,7 @@
 <code><a href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024"></a></code>
 <code><a href="https://www.postgresql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="netlify"  height="30"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="redux" height="30"></a></code>
-<code><a href="https://sass-lang.com" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sass"  height="30"></a></code>
+<code><a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sass"  height="30"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 <br>
     
