@@ -6,14 +6,14 @@
 <summary>
   Little facts about me 🧑
 </summary>
-
+<p>
   <ul>
     <li>🧞 I am interested in new technologies</li>
     <li>🔭 I’m currently working on Fullstack Web Development and Mobile Development</li>
     <li>👯 I’m looking to collaborate on Fullstack Web projects</li>
     <li>💡 Contributing to Open Source Projects is always a goal of mine</li>
   </ul>
-
+</p>
 <summary>
   ✨ Tech stack currently using:
 </summary>
@@ -40,6 +40,7 @@
 <summary>
  📔 GitHub Stats:
 </summary>
+<p>
   <p align="center">
     <a href="https://github.com/umitavc">
       <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=umitavc&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
@@ -51,6 +52,7 @@
   <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umitavc&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="GitHub Streak Stats"/>
   </p>
+</p>  
 
   <h4>Connect with me 🤝:</h4>
   <p>
